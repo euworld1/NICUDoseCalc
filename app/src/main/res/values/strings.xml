@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MedCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="babymass">Please enter mass of baby below in grams</string>
+
+    <string-array name="medication_array">
+        <item>Atropine ETT(0.1 mg/mL)</item>
+        <item>Calcium Cloride (10%)IV/IO (100mg/mL)</item>
+        <item>Calcium Gluconate (10%)IV/IO (100mg/mL)</item>
+        <item>Dextrose (10%) IV/IO (0.1 g/mL)</item>
+        <item>Dextrose (10%) Infusion (0.1 g/mL)</item>
+        <item>EPINEPHrine (1:10,000) IV/IO (0.1 mg/mL)</item>
+        <item>EPINEPHrine (1:10,000) ETT (0.1 mg/mL)</item>
+        <item>Lidocaine IV/IO (10 mg/mL)</item>
+        <item>Lidocaine ETT (10 mg/mL)</item>
+        <item>Lidocaine Infusion (4 mg/mL)</item>
+        <item>Magnesium Sulfate IV/IO (500 mg/mL)</item>
+        <item>Naloxone IV/IM (1 mg/mL)</item>
+        <item>Procainamide IV/IO (500 mg/mL)</item>
+        <item>Sodium Bicarbonate (4.2%) IV/IO (0.5 mEq/mL)</item>
+    </string-array>
+    <string name="Enter_Baby_Mass">1000</string>
+
+</resources>
