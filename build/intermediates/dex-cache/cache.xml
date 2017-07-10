@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android\projects\MedCalc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63987afa575584a4d2557ac56955d787e4383613">
+        <dex dex="E:\android\projects\MedCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b7401fc2f7d7e676e973417ff890db7e03aefa9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\projects\MedCalc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\android\projects\MedCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3f55ef163b62d2fd66afdd00885441a11d5e488a\classes.dex" />
+    </item>
+
+</items>
